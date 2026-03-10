@@ -36,7 +36,6 @@ Helps telecom companies identify customers at risk of leaving and design targete
 
 ### Feature Importance (XGBoost)
 ![Feature Importance](feature_importance.png)
-![Model Performance](model_performance.png)
 
 ### Feature Importance (XGBoost)
 ![Feature Importance](feature_importance.png)
