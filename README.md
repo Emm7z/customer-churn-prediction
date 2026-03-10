@@ -27,13 +27,15 @@ Helps telecom companies identify customers at risk of leaving and design targete
 ## Data Analysis
 
 ### Churn Distribution
-![Churn Distribution]("Churn Distribution.png")
+![Churn Distribution](churn_distribution.png)
 
 ### Churn by Contract Type
-![Churn by Contract Type]("Churn by Contract Type.png")
+![Churn by Contract](churn_contract_type.png)
 
 ### Model Performance
-![Model Performance]("Model Performance.png")
+![Model Performance](model_performance.png)
 
-### Feature Importance
-![Feature Importance]("Features important.png")
+### Feature Importance (XGBoost)
+![Feature Importance](feature_importance.png)
+
+
