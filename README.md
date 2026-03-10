@@ -22,3 +22,16 @@ A machine learning classification model was developed with approximately 80% pre
 
 ## Business Value
 Helps telecom companies identify customers at risk of leaving and design targeted retention strategies.
+## Data Analysis
+
+### Churn Distribution
+![Churn Distribution](churn_distribution.png)
+
+### Churn by Contract Type
+![Churn by Contract](churn_contract_type.png)
+
+### Model Performance
+![Model Performance](model_performance.png)
+
+### Feature Importance (XGBoost)
+![Feature Importance](feature_importance.png)
