@@ -23,10 +23,3 @@ A machine learning classification model was developed with approximately 80% pre
 ## Business Value
 Helps telecom companies identify customers at risk of leaving and design targeted retention strategies.
 
-### Feature Importance (XGBoost)
-![Feature Importance](feature_importance.png)
-
-### Feature Importance (XGBoost)
-![Feature Importance](feature_importance.png)
-
-
